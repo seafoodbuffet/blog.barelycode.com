@@ -1,0 +1,23 @@
+# Dependencies
+markdown: redcarpet
+hyighlighter: pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Barely Code Blog
+description:      'A blog about the random musings and raving of an entirely unremarkable software engineer.'
+#url:              http://blog.barelycode.com
+
+author:
+  name:           'Barely Code'
+  url:            https://twitter.com/barelycode
+
+paginate:         5
+
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/seafoodbuffet/blog.barelycode.com
