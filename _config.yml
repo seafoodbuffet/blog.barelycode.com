@@ -16,8 +16,10 @@ author:
 
 paginate:         5
 
+#
+lsli:             false
 
 # Custom vars
-version:          1.0.1
+version:          1.0.3
 github:
   repo:           https://github.com/seafoodbuffet/blog.barelycode.com
