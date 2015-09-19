@@ -18,6 +18,8 @@ paginate:         5
 
 
 # Custom vars
-version:          1.0.1
+site:
+  version:        1.0.1
+  
 github:
   repo:           https://github.com/seafoodbuffet/blog.barelycode.com
