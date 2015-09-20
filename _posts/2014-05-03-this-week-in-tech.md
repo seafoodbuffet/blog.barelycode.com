@@ -3,7 +3,7 @@ layout: post
 title: This week in tech
 tags:
   - tech
-  - gekk
+  - geek
 ---
 
 Here's a brief summary of the most interesting news stories this week in tech.
